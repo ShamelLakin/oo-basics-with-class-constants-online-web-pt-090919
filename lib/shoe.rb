@@ -19,5 +19,3 @@ class Shoe
   end 
 
 end
-
-Shoe.new("Uggs")
